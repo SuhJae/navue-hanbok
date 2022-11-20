@@ -29,7 +29,7 @@ html {
 	margin: 0px
 }
 body{
-	font-family: "Mulish";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	font-size: 15px;
 	line-height: 30px;
 	letter-spacing: 0px;
@@ -86,7 +86,7 @@ img.svg{
 h1, h2, h3, h4, h5, h6{
 	font-weight:500;
 	line-height: 1.4;
-	font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	color: #000;
 }
 
@@ -262,7 +262,7 @@ a{
 }
 .tokyo_tm_topbar .logo h3{
 	font-weight: 900;
-	font-family: "Poppins";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	font-size: 25px;
 	letter-spacing: 4px;
 }
@@ -322,7 +322,7 @@ a{
 }
 .tokyo_tm_mobile_menu .menu_list ul li a{
 	color: #000;
-	font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 }
 
 /*---------------------------------------------------*/
@@ -347,7 +347,7 @@ a{
 	max-width: 150px;
 }
 .tokyo_tm_all_wrap .leftpart .logo h3{
-	font-family: "Poppins";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	font-weight: 900;
 	font-size: 31px;
 	letter-spacing: 5px;
@@ -374,7 +374,7 @@ a{
 	color: #767676;
 	display: inline-block;
 	font-weight: 500;
-	font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -395,7 +395,7 @@ a{
 .tokyo_tm_all_wrap .leftpart .copyright p{
 	font-size: 15px;
 	color: #999;
-	font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	line-height: 25px;
 }
 .tokyo_tm_all_wrap .leftpart .copyright a{
@@ -531,13 +531,14 @@ a{
 }
 .tokyo_tm_home .details .name{
 	font-size: 55px;
-	font-weight: 800;
+	font-weight: 600;
 	text-transform: uppercase;
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	margin-bottom: 14px;
 }
 .tokyo_tm_home .details .job{
-	font-family: "Montserrat";
-	font-weight: 500;
+	font-family: 'Gowun Batang', serif;
+	font-weight: 400;
 	max-width: 450px;
 	margin-bottom: 25px;
 }
@@ -1085,7 +1086,7 @@ a{
     background-color: rgba(0,0,0,.03);
     font-weight: 700;
     color: #000;
-    font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -1371,7 +1372,7 @@ a{
 }
 .tokyo_tm_title h3{
 	font-weight: 800;
-	font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 } 
 .tokyo_tm_title span{
 	display: inline-block;
@@ -1381,7 +1382,7 @@ a{
 	font-weight: 600;
 	font-size: 12px;
 	color: #333;
-	font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	letter-spacing: 0px;
 	margin-bottom: 11px;
 }
@@ -1408,7 +1409,7 @@ a{
 	color: #767676;
 	display: inline-block;
 	font-weight: 500;
-	font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -1481,7 +1482,7 @@ a{
 	background: #ffffff;
 	font-size: 18px;
 	padding: 5px 15px;
-	font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	font-weight: 600;
 	color: #000;
 	position: fixed;
@@ -1499,7 +1500,7 @@ a{
 	top: 100%;
 	left: 0;
 	margin-top: -10px;
-	font-family: "Mulish";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	font-weight: 500;
 	padding: 5px 15px;
 	color: #767676;
@@ -1759,7 +1760,7 @@ a{
 	color: #000;
 }
 .tokyo_tm_news ul li .details .date{
-	font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 	font-size: 13px;
 	color: #767676;
 }
@@ -1816,7 +1817,7 @@ a{
 	text-transform: uppercase;
     font-weight: 500;
 	font-size: 12px;
-	font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
 }
 .tokyo_tm_read_more a:before{
 	position: absolute;
@@ -2055,7 +2056,7 @@ a{
 }
 .tokyo_tm_modalbox .date{
 	text-transform: uppercase;
-    font-family: "Montserrat";
+	font-family: 'IBM Plex Sans KR', sans-serif;
     font-size: 12px;
     color: #767676;
 }
